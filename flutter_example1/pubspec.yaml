@@ -36,7 +36,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
-dev_dependencies:
+dev_dependencies:z
   flutter_test:
     sdk: flutter
 
